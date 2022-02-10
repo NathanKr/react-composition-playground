@@ -1,0 +1,9 @@
+.NiceBorder{
+    border : 10px solid;
+    margin : 10px;
+    padding : 10px;
+}
+
+.NiceBorder-blue{
+    border-color: blue;
+}
